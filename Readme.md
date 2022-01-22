@@ -12,7 +12,7 @@ I'm Carl Castañas😉, Front-End Web Developer 👨🏻‍💻 from Philippines
 
 ### Current Status Quo:
 
-- 💼 Full-Stack <span>React.js/ Node.js Developer</span>.
+- 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
 - 👀 See my [Personal Portfolio](https://carlcastanas.github.io/portfolio/) to get more info
