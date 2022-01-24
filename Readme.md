@@ -31,7 +31,7 @@ I'm Carl Castañas😉, Full-Stack React Web Developer 👨🏻‍💻 from Phil
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlcastanas&theme=material-palenight"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlcastanas&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </a>
 
 ### Github Activity: 🔥 
