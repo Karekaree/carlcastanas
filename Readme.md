@@ -16,6 +16,8 @@ Im **Carl Andrew Castanas** also known as **carlcastanas**, and I'm a **top GitH
 - 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
 - 👀 See my [Personal Portfolio](https://carlcastanas.github.io/portfolio/) to get more info
+ 
+### Latest Blog Post 🚨:
 
 ### Tools I work upon : 🛠
 
@@ -31,8 +33,6 @@ Im **Carl Andrew Castanas** also known as **carlcastanas**, and I'm a **top GitH
 
 ### Github Activity: 🔥 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=carlcastanas&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-
-### Latest Blog Post 🚨:
 
 -----
 Credits: [carlcastanas](https://github.com/carlcastanas)
